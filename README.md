@@ -1,4 +1,4 @@
-# TTS Studio
+# TTS Studio version 1.0
 **TTS Studio** is a professional-grade, GPU-accelerated storyboard interface for high-fidelity Text-to-Speech generation. Built for creators who need local privacy and studio-quality voice cloning without the subscription fees.
 
 <img width="1363" height="847" alt="Demo" src="https://github.com/user-attachments/assets/19e4f05b-05cc-4ba7-b95f-d2fae862b633" />
