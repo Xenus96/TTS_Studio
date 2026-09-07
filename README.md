@@ -25,7 +25,7 @@
 ## 💻 System Requirements
 
 To ensure smooth generation, the following system requirements are recommended to have:</br>
-- **GPU**: NVIDIA RTX Series (4GB+ VRAM recommended).</br>
+- **GPU**: NVIDIA GPU with CUDA support (RTX Series with 4GB+ VRAM recommended).</br>
 - **RAM**: 8GB Minimum.</br>
 - **Disk Space**: At least **5GB** (to accommodate the local AI models).</br>
 - **OS**: Windows 10/11 (64-bit).
