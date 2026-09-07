@@ -54,4 +54,5 @@ TTS Studio is released under a Non-Commercial License.</br>
 - The **XTTSv2** engine is governed by the [Coqui CPML](https://huggingface.co/coqui/XTTS-v2/blob/main/LICENSE.txt), which prohibits commercial use.</br>
 - The **MMS** models are released under [CC-BY-NC 4.0.](https://creativecommons.org/licenses/by-nc/4.0/).</br>
 - The **Qwen2.5-3B** model is released under the [Qwen Research](https://huggingface.co/Qwen/Qwen2.5-3B/blob/main/LICENSE) license.</br>
+
 ⚠️**Commercial Use**: Any audio generated with this tool is for **personal projects only**. You are legally prohibited from using the output for monetized content or paid services.
